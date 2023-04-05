@@ -16,12 +16,12 @@
 
 ### Proje Hedefleri
 
-[ ] Doğru component yapısının oluşturulması
-[ ] Componentlerde gerekli bileşenlerin import edilmesi
-[ ] Doğru Statelerin oluşturulması
-[ ] Componentler arası prop transferi
-[ ] Sayfadaki butonlara(Değiştir, Beğen) tıklanınca statelerin değişmesi
-[ ] Arama fonksiyonunun dummy-data üzerinde çalışır olması
+- Doğru component yapısının oluşturulması
+- Componentlerde gerekli bileşenlerin import edilmesi
+- Doğru Statelerin oluşturulması
+- Componentler arası prop transferi
+- Sayfadaki butonlara(Değiştir, Beğen) tıklanınca statelerin değişmesi
+- Arama fonksiyonunun dummy-data üzerinde çalışır olması
 
 
 
