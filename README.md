@@ -1,4 +1,4 @@
-# Projenin Hedefleri Aşağıdaki Konuları Kullanarak Projeyi Tasarımdaki Haline Getirmeniz
+# Projenin Hedefi Aşağıdaki Konuları Kullanarak Projeyi Tasarımdaki Haline Getirmeniz
 
 - React components
 - useState
